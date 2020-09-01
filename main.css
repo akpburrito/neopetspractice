@@ -1,0 +1,52 @@
+body {
+  background: #EDB500;
+  font-family: "Inter";
+}
+h1 {
+  color: purple;
+  text-align: right;
+}
+h3 {
+  text-align: center;
+  color: lightblue;
+}
+span {
+  color: green;}
+
+  img {
+    max-width: 100%
+  }
+.list  li {
+    font-size: 22px;
+  }
+.important {
+  font-weight: bold;
+  color: red;
+}
+
+.prestige .col-md {
+    background: teal;
+    color: yellow;
+    border: 2px solid magenta;
+    min-height: 200px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background: #a9a9a9;
+  }
+  img {
+    width: 100%;
+  }
+}
